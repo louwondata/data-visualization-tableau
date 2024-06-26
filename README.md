@@ -1,2 +1,2 @@
 # data-visualization-tableau
-Data Visualization Course Files
+Data Visualization with Tableau Course Files
